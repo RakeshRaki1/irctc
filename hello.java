@@ -1,3 +1,3 @@
 hello world
 changes 10 
-in2 30
+changes 30
