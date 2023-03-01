@@ -1,3 +1,3 @@
 hello world
-int 10
+changes 10 
 in2 30
