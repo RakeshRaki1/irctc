@@ -6,4 +6,4 @@ funtion
 }
 experiment { } 
 } 
-} }
+} } {
